@@ -1,0 +1,80 @@
+2026-10-11 16:24:02: Server: SSH-2.0-OpenSSH_9.6p1 Ubuntu-3ubuntu13.19
+2026-10-11 16:24:02: Server KEXes: sntrup761x25519-sha512@openssh.com,curve25519-sha256,curve25519-sha256@libssh.org,ecdh-sha2-nistp256,ecdh-sha2-nistp384,ecdh-sha2-nistp521,diffie-hellman-group-exchange-sha256,diffie-hellman-group16-sha512,diffie-hellman-group18-sha512,diffie-hellman-group14-sha256,ext-info-s,kex-strict-s-v00@openssh.com
+2026-10-11 16:24:02: Server Host Keys: rsa-sha2-512,rsa-sha2-256,ecdsa-sha2-nistp256,ssh-ed25519
+2026-10-11 16:24:02: Chosen Host Key: ssh-ed25519
+2026-10-11 16:24:02: Ciphers: chacha20-poly1305@openssh.com,aes128-ctr,aes192-ctr,aes256-ctr,aes128-gcm@openssh.com,aes256-gcm@openssh.com
+2026-10-11 16:24:02: MACs: umac-64-etm@openssh.com,umac-128-etm@openssh.com,hmac-sha2-256-etm@openssh.com,hmac-sha2-512-etm@openssh.com,hmac-sha1-etm@openssh.com,umac-64@openssh.com,umac-128@openssh.com,hmac-sha2-256,hmac-sha2-512,hmac-sha1
+2026-10-11 16:24:02: Server ext-info: publickey-hostbound@openssh.com: 0
+2026-10-11 16:24:02: Server ext-info: server-sig-algs: ssh-ed25519,ecdsa-sha2-nistp256,ecdsa-sha2-nistp384,ecdsa-sha2-nistp521,sk-ssh-ed25519@openssh.com,sk-ecdsa-sha2-nistp256@openssh.com,rsa-sha2-512,rsa-sha2-256
+2026-10-11 16:24:02: Server ext-info: ping@openssh.com: 0
+2026-10-11 16:24:02: Auth: start: publickey
+2026-10-11 16:24:02: Auth: publickey: no keys available
+2026-10-11 16:24:02: Auth: start: password
+2026-10-11 16:24:03: -- Analysis Started by User Command
+2026-10-11 16:24:03: L: Reading State File C:/Users/grabacr/VPSsync/01-WorkspaceSync/modelica-shared/CustomLib/GroundVehicleDynamics_docs/_gsdata_/_file_state_v4._gs
+2026-10-11 16:24:03: R: Reading State File sftp://os3-310-44666.vs.sakura.ne.jp/home/ubuntu/VPSsync/01-WorkspaceSync/modelica-shared/CustomLib/GroundVehicleDynamics_docs/_gsdata_/_file_state_v4._gs
+2026-10-11 16:24:05: Changes: 17, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 110
+2026-10-11 16:24:05: Right to Left: Copy File: 17 
+2026-10-11 16:24:05: == Sync Started by User Command
+2026-10-11 16:24:05: ConnectCloned connected to file:///~grabacr/VPSsync/01-WorkspaceSync/modelica-shared/CustomLib/GroundVehicleDynamics_docs
+2026-10-11 16:24:05: ConnectCloned connected to file:///~grabacr/VPSsync/01-WorkspaceSync/modelica-shared/CustomLib/GroundVehicleDynamics_docs
+2026-10-11 16:24:05: ConnectCloned connected to file:///~grabacr/VPSsync/01-WorkspaceSync/modelica-shared/CustomLib/GroundVehicleDynamics_docs
+2026-10-11 16:24:05: Server: SSH-2.0-OpenSSH_9.6p1 Ubuntu-3ubuntu13.19
+2026-10-11 16:24:05: Server: SSH-2.0-OpenSSH_9.6p1 Ubuntu-3ubuntu13.19
+2026-10-11 16:24:05: Server: SSH-2.0-OpenSSH_9.6p1 Ubuntu-3ubuntu13.19
+2026-10-11 16:24:05: Server KEXes: sntrup761x25519-sha512@openssh.com,curve25519-sha256,curve25519-sha256@libssh.org,ecdh-sha2-nistp256,ecdh-sha2-nistp384,ecdh-sha2-nistp521,diffie-hellman-group-exchange-sha256,diffie-hellman-group16-sha512,diffie-hellman-group18-sha512,diffie-hellman-group14-sha256,ext-info-s,kex-strict-s-v00@openssh.com
+2026-10-11 16:24:05: Server Host Keys: rsa-sha2-512,rsa-sha2-256,ecdsa-sha2-nistp256,ssh-ed25519
+2026-10-11 16:24:05: Chosen Host Key: ssh-ed25519
+2026-10-11 16:24:05: Ciphers: chacha20-poly1305@openssh.com,aes128-ctr,aes192-ctr,aes256-ctr,aes128-gcm@openssh.com,aes256-gcm@openssh.com
+2026-10-11 16:24:05: MACs: umac-64-etm@openssh.com,umac-128-etm@openssh.com,hmac-sha2-256-etm@openssh.com,hmac-sha2-512-etm@openssh.com,hmac-sha1-etm@openssh.com,umac-64@openssh.com,umac-128@openssh.com,hmac-sha2-256,hmac-sha2-512,hmac-sha1
+2026-10-11 16:24:05: Server KEXes: sntrup761x25519-sha512@openssh.com,curve25519-sha256,curve25519-sha256@libssh.org,ecdh-sha2-nistp256,ecdh-sha2-nistp384,ecdh-sha2-nistp521,diffie-hellman-group-exchange-sha256,diffie-hellman-group16-sha512,diffie-hellman-group18-sha512,diffie-hellman-group14-sha256,ext-info-s,kex-strict-s-v00@openssh.com
+2026-10-11 16:24:05: Server Host Keys: rsa-sha2-512,rsa-sha2-256,ecdsa-sha2-nistp256,ssh-ed25519
+2026-10-11 16:24:05: Chosen Host Key: ssh-ed25519
+2026-10-11 16:24:05: Ciphers: chacha20-poly1305@openssh.com,aes128-ctr,aes192-ctr,aes256-ctr,aes128-gcm@openssh.com,aes256-gcm@openssh.com
+2026-10-11 16:24:05: MACs: umac-64-etm@openssh.com,umac-128-etm@openssh.com,hmac-sha2-256-etm@openssh.com,hmac-sha2-512-etm@openssh.com,hmac-sha1-etm@openssh.com,umac-64@openssh.com,umac-128@openssh.com,hmac-sha2-256,hmac-sha2-512,hmac-sha1
+2026-10-11 16:24:05: Server KEXes: sntrup761x25519-sha512@openssh.com,curve25519-sha256,curve25519-sha256@libssh.org,ecdh-sha2-nistp256,ecdh-sha2-nistp384,ecdh-sha2-nistp521,diffie-hellman-group-exchange-sha256,diffie-hellman-group16-sha512,diffie-hellman-group18-sha512,diffie-hellman-group14-sha256,ext-info-s,kex-strict-s-v00@openssh.com
+2026-10-11 16:24:05: Server Host Keys: rsa-sha2-512,rsa-sha2-256,ecdsa-sha2-nistp256,ssh-ed25519
+2026-10-11 16:24:05: Chosen Host Key: ssh-ed25519
+2026-10-11 16:24:05: Ciphers: chacha20-poly1305@openssh.com,aes128-ctr,aes192-ctr,aes256-ctr,aes128-gcm@openssh.com,aes256-gcm@openssh.com
+2026-10-11 16:24:05: MACs: umac-64-etm@openssh.com,umac-128-etm@openssh.com,hmac-sha2-256-etm@openssh.com,hmac-sha2-512-etm@openssh.com,hmac-sha1-etm@openssh.com,umac-64@openssh.com,umac-128@openssh.com,hmac-sha2-256,hmac-sha2-512,hmac-sha1
+2026-10-11 16:24:05: Server ext-info: publickey-hostbound@openssh.com: 0
+2026-10-11 16:24:05: Server ext-info: server-sig-algs: ssh-ed25519,ecdsa-sha2-nistp256,ecdsa-sha2-nistp384,ecdsa-sha2-nistp521,sk-ssh-ed25519@openssh.com,sk-ecdsa-sha2-nistp256@openssh.com,rsa-sha2-512,rsa-sha2-256
+2026-10-11 16:24:05: Server ext-info: ping@openssh.com: 0
+2026-10-11 16:24:05: Server ext-info: publickey-hostbound@openssh.com: 0
+2026-10-11 16:24:05: Server ext-info: server-sig-algs: ssh-ed25519,ecdsa-sha2-nistp256,ecdsa-sha2-nistp384,ecdsa-sha2-nistp521,sk-ssh-ed25519@openssh.com,sk-ecdsa-sha2-nistp256@openssh.com,rsa-sha2-512,rsa-sha2-256
+2026-10-11 16:24:05: Server ext-info: ping@openssh.com: 0
+2026-10-11 16:24:05: Server ext-info: publickey-hostbound@openssh.com: 0
+2026-10-11 16:24:05: Server ext-info: server-sig-algs: ssh-ed25519,ecdsa-sha2-nistp256,ecdsa-sha2-nistp384,ecdsa-sha2-nistp521,sk-ssh-ed25519@openssh.com,sk-ecdsa-sha2-nistp256@openssh.com,rsa-sha2-512,rsa-sha2-256
+2026-10-11 16:24:05: Server ext-info: ping@openssh.com: 0
+2026-10-11 16:24:05: Auth: start: publickey
+2026-10-11 16:24:05: Auth: publickey: no keys available
+2026-10-11 16:24:05: Auth: start: publickey
+2026-10-11 16:24:05: Auth: start: password
+2026-10-11 16:24:05: Auth: publickey: no keys available
+2026-10-11 16:24:05: Auth: start: password
+2026-10-11 16:24:05: Auth: start: publickey
+2026-10-11 16:24:05: Auth: publickey: no keys available
+2026-10-11 16:24:05: Auth: start: password
+2026-10-11 16:24:06: GsConnectAndSetRoot1 connected to sftp://os3-310-44666.vs.sakura.ne.jp/home/ubuntu/VPSsync/01-WorkspaceSync/modelica-shared/CustomLib/GroundVehicleDynamics_docs
+2026-10-11 16:24:06: GsConnectAndSetRoot1 connected to sftp://os3-310-44666.vs.sakura.ne.jp/home/ubuntu/VPSsync/01-WorkspaceSync/modelica-shared/CustomLib/GroundVehicleDynamics_docs
+2026-10-11 16:24:06: GsConnectAndSetRoot1 connected to sftp://os3-310-44666.vs.sakura.ne.jp/home/ubuntu/VPSsync/01-WorkspaceSync/modelica-shared/CustomLib/GroundVehicleDynamics_docs
+2026-10-11 16:24:07: Copy New 'sftp://os3-310-44666.vs.sakura.ne.jp/home/ubuntu/VPSsync/01-WorkspaceSync/modelica-shared/CustomLib/GroundVehicleDynamics_docs/Examples/Projects/Panjan/ProtoPanjan_009/wave_3/y_bodyCenter.r_0[2]_vs_bodyCenter.r_0[1].svg' -> 'C:/Users/grabacr/VPSsync/01-WorkspaceSync/modelica-shared/CustomLib/GroundVehicleDynamics_docs/Examples/Projects/Panjan/ProtoPanjan_009/wave_3/y_bodyCenter.r_0[2]_vs_bodyCenter.r_0[1].svg' (61,367)
+2026-10-11 16:24:07: Copy New 'sftp://os3-310-44666.vs.sakura.ne.jp/home/ubuntu/VPSsync/01-WorkspaceSync/modelica-shared/CustomLib/GroundVehicleDynamics_docs/Examples/Projects/Panjan/ProtoPanjan_009/wave_3/y_bodyCenter.r_0[2]_vs_bodyCenter.r_0[1]_01.svg' -> 'C:/Users/grabacr/VPSsync/01-WorkspaceSync/modelica-shared/CustomLib/GroundVehicleDynamics_docs/Examples/Projects/Panjan/ProtoPanjan_009/wave_3/y_bodyCenter.r_0[2]_vs_bodyCenter.r_0[1]_01.svg' (54,021)
+2026-10-11 16:24:07: Copy New 'sftp://os3-310-44666.vs.sakura.ne.jp/home/ubuntu/VPSsync/01-WorkspaceSync/modelica-shared/CustomLib/GroundVehicleDynamics_docs/Examples/Projects/Panjan/ProtoPanjan_009/wave_3/y_bodyCenter.r_0[3].svg' -> 'C:/Users/grabacr/VPSsync/01-WorkspaceSync/modelica-shared/CustomLib/GroundVehicleDynamics_docs/Examples/Projects/Panjan/ProtoPanjan_009/wave_3/y_bodyCenter.r_0[3].svg' (64,944)
+2026-10-11 16:24:07: Copy New 'sftp://os3-310-44666.vs.sakura.ne.jp/home/ubuntu/VPSsync/01-WorkspaceSync/modelica-shared/CustomLib/GroundVehicleDynamics_docs/Examples/Projects/Panjan/ProtoPanjan_009/wave_3/y_bodyCenter.r_0[3]_01.svg' -> 'C:/Users/grabacr/VPSsync/01-WorkspaceSync/modelica-shared/CustomLib/GroundVehicleDynamics_docs/Examples/Projects/Panjan/ProtoPanjan_009/wave_3/y_bodyCenter.r_0[3]_01.svg' (43,695)
+2026-10-11 16:24:07: Copy New 'sftp://os3-310-44666.vs.sakura.ne.jp/home/ubuntu/VPSsync/01-WorkspaceSync/modelica-shared/CustomLib/GroundVehicleDynamics_docs/Examples/Projects/Panjan/ProtoPanjan_009/wave_3/y_bodyCenter.v_0[1].svg' -> 'C:/Users/grabacr/VPSsync/01-WorkspaceSync/modelica-shared/CustomLib/GroundVehicleDynamics_docs/Examples/Projects/Panjan/ProtoPanjan_009/wave_3/y_bodyCenter.v_0[1].svg' (59,860)
+2026-10-11 16:24:07: Copy New 'sftp://os3-310-44666.vs.sakura.ne.jp/home/ubuntu/VPSsync/01-WorkspaceSync/modelica-shared/CustomLib/GroundVehicleDynamics_docs/Examples/Projects/Panjan/ProtoPanjan_009/wave_3/y_discEdgeBtmL.frame_a.t[2].svg' -> 'C:/Users/grabacr/VPSsync/01-WorkspaceSync/modelica-shared/CustomLib/GroundVehicleDynamics_docs/Examples/Projects/Panjan/ProtoPanjan_009/wave_3/y_discEdgeBtmL.frame_a.t[2].svg' (55,190)
+2026-10-11 16:24:07: Copy New 'sftp://os3-310-44666.vs.sakura.ne.jp/home/ubuntu/VPSsync/01-WorkspaceSync/modelica-shared/CustomLib/GroundVehicleDynamics_docs/Examples/Projects/Panjan/ProtoPanjan_009/wave_3/y_discEdgeBtmL.frame_a.t[2]_01.svg' -> 'C:/Users/grabacr/VPSsync/01-WorkspaceSync/modelica-shared/CustomLib/GroundVehicleDynamics_docs/Examples/Projects/Panjan/ProtoPanjan_009/wave_3/y_discEdgeBtmL.frame_a.t[2]_01.svg' (38,731)
+2026-10-11 16:24:07: Copy New 'sftp://os3-310-44666.vs.sakura.ne.jp/home/ubuntu/VPSsync/01-WorkspaceSync/modelica-shared/CustomLib/GroundVehicleDynamics_docs/Examples/Projects/Panjan/ProtoPanjan_009/wave_3/y_elastoGapWhL.f_01.svg' -> 'C:/Users/grabacr/VPSsync/01-WorkspaceSync/modelica-shared/CustomLib/GroundVehicleDynamics_docs/Examples/Projects/Panjan/ProtoPanjan_009/wave_3/y_elastoGapWhL.f_01.svg' (50,296)
+2026-10-11 16:24:07: Copy New 'sftp://os3-310-44666.vs.sakura.ne.jp/home/ubuntu/VPSsync/01-WorkspaceSync/modelica-shared/CustomLib/GroundVehicleDynamics_docs/Examples/Projects/Panjan/ProtoPanjan_009/wave_3/y_elastoGapWhL.f.svg' -> 'C:/Users/grabacr/VPSsync/01-WorkspaceSync/modelica-shared/CustomLib/GroundVehicleDynamics_docs/Examples/Projects/Panjan/ProtoPanjan_009/wave_3/y_elastoGapWhL.f.svg' (65,902)
+2026-10-11 16:24:07: Copy New 'sftp://os3-310-44666.vs.sakura.ne.jp/home/ubuntu/VPSsync/01-WorkspaceSync/modelica-shared/CustomLib/GroundVehicleDynamics_docs/Examples/Projects/Panjan/ProtoPanjan_009/wave_3/y_forceSensorGrdN_L.f.svg' -> 'C:/Users/grabacr/VPSsync/01-WorkspaceSync/modelica-shared/CustomLib/GroundVehicleDynamics_docs/Examples/Projects/Panjan/ProtoPanjan_009/wave_3/y_forceSensorGrdN_L.f.svg' (72,954)
+2026-10-11 16:24:07: Copy New 'sftp://os3-310-44666.vs.sakura.ne.jp/home/ubuntu/VPSsync/01-WorkspaceSync/modelica-shared/CustomLib/GroundVehicleDynamics_docs/Examples/Projects/Panjan/ProtoPanjan_009/wave_3/y_forceSensorGrdN_L.f_01.svg' -> 'C:/Users/grabacr/VPSsync/01-WorkspaceSync/modelica-shared/CustomLib/GroundVehicleDynamics_docs/Examples/Projects/Panjan/ProtoPanjan_009/wave_3/y_forceSensorGrdN_L.f_01.svg' (50,631)
+2026-10-11 16:24:07: Copy New 'sftp://os3-310-44666.vs.sakura.ne.jp/home/ubuntu/VPSsync/01-WorkspaceSync/modelica-shared/CustomLib/GroundVehicleDynamics_docs/Examples/Projects/Panjan/ProtoPanjan_009/wave_3/y_FtWheelL.frame_b.f[1].svg' -> 'C:/Users/grabacr/VPSsync/01-WorkspaceSync/modelica-shared/CustomLib/GroundVehicleDynamics_docs/Examples/Projects/Panjan/ProtoPanjan_009/wave_3/y_FtWheelL.frame_b.f[1].svg' (65,592)
+2026-10-11 16:24:07: Copy New 'sftp://os3-310-44666.vs.sakura.ne.jp/home/ubuntu/VPSsync/01-WorkspaceSync/modelica-shared/CustomLib/GroundVehicleDynamics_docs/Examples/Projects/Panjan/ProtoPanjan_009/wave_3/y_FtWheelL.frame_b.f[1]_01.svg' -> 'C:/Users/grabacr/VPSsync/01-WorkspaceSync/modelica-shared/CustomLib/GroundVehicleDynamics_docs/Examples/Projects/Panjan/ProtoPanjan_009/wave_3/y_FtWheelL.frame_b.f[1]_01.svg' (46,847)
+2026-10-11 16:24:07: Copy New 'sftp://os3-310-44666.vs.sakura.ne.jp/home/ubuntu/VPSsync/01-WorkspaceSync/modelica-shared/CustomLib/GroundVehicleDynamics_docs/Examples/Projects/Panjan/ProtoPanjan_009/wave_3/y_FtWheelL.frame_b.r_0[3].svg' -> 'C:/Users/grabacr/VPSsync/01-WorkspaceSync/modelica-shared/CustomLib/GroundVehicleDynamics_docs/Examples/Projects/Panjan/ProtoPanjan_009/wave_3/y_FtWheelL.frame_b.r_0[3].svg' (95,767)
+2026-10-11 16:24:07: Copy New 'sftp://os3-310-44666.vs.sakura.ne.jp/home/ubuntu/VPSsync/01-WorkspaceSync/modelica-shared/CustomLib/GroundVehicleDynamics_docs/Examples/Projects/Panjan/ProtoPanjan_009/wave_3/y_FtWheelL.frame_b.r_0[3]_01.svg' -> 'C:/Users/grabacr/VPSsync/01-WorkspaceSync/modelica-shared/CustomLib/GroundVehicleDynamics_docs/Examples/Projects/Panjan/ProtoPanjan_009/wave_3/y_FtWheelL.frame_b.r_0[3]_01.svg' (67,977)
+2026-10-11 16:24:07: Copy New 'sftp://os3-310-44666.vs.sakura.ne.jp/home/ubuntu/VPSsync/01-WorkspaceSync/modelica-shared/CustomLib/GroundVehicleDynamics_docs/Examples/Projects/Panjan/ProtoPanjan_009/wave_3/y_FtWheelL.frame_b.r_0[3]_vs_FtWheelL.frame_b.r_0[1].svg' -> 'C:/Users/grabacr/VPSsync/01-WorkspaceSync/modelica-shared/CustomLib/GroundVehicleDynamics_docs/Examples/Projects/Panjan/ProtoPanjan_009/wave_3/y_FtWheelL.frame_b.r_0[3]_vs_FtWheelL.frame_b.r_0[1].svg' (70,975)
+2026-10-11 16:24:07: Copy New 'sftp://os3-310-44666.vs.sakura.ne.jp/home/ubuntu/VPSsync/01-WorkspaceSync/modelica-shared/CustomLib/GroundVehicleDynamics_docs/Examples/Projects/Panjan/ProtoPanjan_009/wave_3/y_FtWheelL.frame_b.r_0[3]_vs_FtWheelL.frame_b.r_0[1]_01.svg' -> 'C:/Users/grabacr/VPSsync/01-WorkspaceSync/modelica-shared/CustomLib/GroundVehicleDynamics_docs/Examples/Projects/Panjan/ProtoPanjan_009/wave_3/y_FtWheelL.frame_b.r_0[3]_vs_FtWheelL.frame_b.r_0[1]_01.svg' (49,155)
+2026-10-11 16:24:07: Save State File C:/Users/grabacr/VPSsync/01-WorkspaceSync/modelica-shared/CustomLib/GroundVehicleDynamics_docs/_gsdata_/_file_state_v4._gs
+2026-10-11 16:24:07: Save State File sftp://os3-310-44666.vs.sakura.ne.jp/home/ubuntu/VPSsync/01-WorkspaceSync/modelica-shared/CustomLib/GroundVehicleDynamics_docs/_gsdata_/_file_state_v4._gs
+2026-10-11 16:24:08: == Sync Complete. Time: 00:00:03, Speed: 337.97 KB/s, OK: 17, Errors: 0
